@@ -15,7 +15,7 @@
 @media screen and (min-width: 700px) { .aux-framed .aux-side-frames, body.aux-framed:after, .aux-framed .aux-side-frames:before, .aux-framed .aux-side-frames:after {background-color:#111111;}}
 /* sticky-header-color 
 =========================*/
-.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section, .aux-elementor-header.aux-sticky [data-elementor-type="header"] > .elementor-section { background-color:#FFFFFF !important; }
+.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section, .aux-elementor-header.aux-sticky [data-elementor-type="header"] > .elementor-section { background-color:rgba(255, 255, 255, 0) !important; }
 /* site-header-container-scaled-height 
 =========================*/
 .aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0 > .aux-item-content, .aux-top-sticky .site-header-section.aux-sticky .aux-header-elements,.aux-elementor-header.aux-sticky [data-elementor-type="header"] > .elementor-section > .elementor-container,.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section > .elementor-container { min-height:80px; }
