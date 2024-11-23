@@ -7665,7 +7665,7 @@ blockquote { border: none; background-color: rgba(0, 0, 0, 0.05); color: inherit
 /*!>>>>>>>>>>>>>>>>>>>> #Woo General Styles <<<<<<<<<<<<<<<<<<<<<< */
 .woocommerce-page .woocommerce-tabs .panel { display: none; }
 
-.auxshp-title-heading { font-family: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; letter-spacing: inherit; text-transform: inherit; margin: 0; }
+.auxshp-title-heading { font-size: inherit; font-weight: inherit; line-height: inherit; letter-spacing: inherit; text-transform: inherit; margin: 0; }
 
 .product.aux-remove-view-cart a.added_to_cart { display: none !important; }
 
